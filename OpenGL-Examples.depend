@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553627715 source:c:\users\iago.labcg-pc\documents\opengl-examples\09transform_feedback.cpp
+	"include/GLXW/glxw.h"
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<cmath>
+
+1553627287 c:\users\iago.labcg-pc\documents\opengl-examples\include\glxw\glxw.h
+	<GL/glcorearb.h>
+
+1553628216 source:c:\users\iago.labcg-pc\documents\opengl-examples\include\glxw\glxw.c
+	"glxw.h"
+	<windows.h>
+	<dlfcn.h>
+
